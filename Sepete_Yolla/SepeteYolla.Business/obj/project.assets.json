@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SepeteYolla.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SepeteYolla.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SepeteYolla.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SepeteYolla.DataAccess.dll": {}
+        }
+      },
+      "SepeteYolla.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SepeteYolla.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SepeteYolla.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SepeteYolla.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../SepeteYolla.DataAccess/SepeteYolla.DataAccess.csproj",
+      "msbuildProject": "../SepeteYolla.DataAccess/SepeteYolla.DataAccess.csproj"
+    },
+    "SepeteYolla.Entities/1.0.0": {
+      "type": "project",
+      "path": "../SepeteYolla.Entities/SepeteYolla.Entities.csproj",
+      "msbuildProject": "../SepeteYolla.Entities/SepeteYolla.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SepeteYolla.DataAccess >= 1.0.0",
+      "SepeteYolla.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\porsuk\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\porsuk\\source\\repos\\Sepete_Yolla\\SepeteYolla.Business\\SepeteYolla.Business.csproj",
+      "projectName": "SepeteYolla.Business",
+      "projectPath": "C:\\Users\\porsuk\\source\\repos\\Sepete_Yolla\\SepeteYolla.Business\\SepeteYolla.Business.csproj",
+      "packagesPath": "C:\\Users\\porsuk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\porsuk\\source\\repos\\Sepete_Yolla\\SepeteYolla.Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\porsuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\porsuk\\source\\repos\\Sepete_Yolla\\SepeteYolla.DataAccess\\SepeteYolla.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\porsuk\\source\\repos\\Sepete_Yolla\\SepeteYolla.DataAccess\\SepeteYolla.DataAccess.csproj"
+            },
+            "C:\\Users\\porsuk\\source\\repos\\Sepete_Yolla\\SepeteYolla.Entities\\SepeteYolla.Entities.csproj": {
+              "projectPath": "C:\\Users\\porsuk\\source\\repos\\Sepete_Yolla\\SepeteYolla.Entities\\SepeteYolla.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

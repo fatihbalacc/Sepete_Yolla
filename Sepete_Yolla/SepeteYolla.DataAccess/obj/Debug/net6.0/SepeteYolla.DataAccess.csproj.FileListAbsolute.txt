@@ -1,0 +1,17 @@
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\bin\Debug\net6.0\SepeteYolla.DataAccess.deps.json
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\bin\Debug\net6.0\SepeteYolla.DataAccess.runtimeconfig.json
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\bin\Debug\net6.0\SepeteYolla.DataAccess.dll
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\bin\Debug\net6.0\SepeteYolla.DataAccess.pdb
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\bin\Debug\net6.0\SepeteYolla.Entities.dll
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\bin\Debug\net6.0\SepeteYolla.Entities.pdb
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\obj\Debug\net6.0\SepeteYolla.DataAccess.csproj.AssemblyReference.cache
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\obj\Debug\net6.0\SepeteYolla.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\obj\Debug\net6.0\SepeteYolla.DataAccess.AssemblyInfoInputs.cache
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\obj\Debug\net6.0\SepeteYolla.DataAccess.AssemblyInfo.cs
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\obj\Debug\net6.0\SepeteYolla.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\obj\Debug\net6.0\SepeteYolla.DataAccess.csproj.CopyComplete
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\obj\Debug\net6.0\SepeteYolla.DataAccess.dll
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\obj\Debug\net6.0\refint\SepeteYolla.DataAccess.dll
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\obj\Debug\net6.0\SepeteYolla.DataAccess.pdb
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\obj\Debug\net6.0\SepeteYolla.DataAccess.genruntimeconfig.cache
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.DataAccess\obj\Debug\net6.0\ref\SepeteYolla.DataAccess.dll

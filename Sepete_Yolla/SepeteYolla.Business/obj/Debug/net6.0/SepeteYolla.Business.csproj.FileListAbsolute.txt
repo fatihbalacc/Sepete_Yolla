@@ -1,0 +1,17 @@
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\bin\Debug\net6.0\SepeteYolla.Business.deps.json
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\bin\Debug\net6.0\SepeteYolla.Business.dll
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\bin\Debug\net6.0\SepeteYolla.Business.pdb
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\bin\Debug\net6.0\SepeteYolla.DataAccess.dll
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\bin\Debug\net6.0\SepeteYolla.Entities.dll
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\bin\Debug\net6.0\SepeteYolla.DataAccess.pdb
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\bin\Debug\net6.0\SepeteYolla.Entities.pdb
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\obj\Debug\net6.0\SepeteYolla.Business.csproj.AssemblyReference.cache
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\obj\Debug\net6.0\SepeteYolla.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\obj\Debug\net6.0\SepeteYolla.Business.AssemblyInfoInputs.cache
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\obj\Debug\net6.0\SepeteYolla.Business.AssemblyInfo.cs
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\obj\Debug\net6.0\SepeteYolla.Business.csproj.CoreCompileInputs.cache
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\obj\Debug\net6.0\SepeteYolla.Business.csproj.CopyComplete
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\obj\Debug\net6.0\SepeteYolla.Business.dll
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\obj\Debug\net6.0\refint\SepeteYolla.Business.dll
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\obj\Debug\net6.0\SepeteYolla.Business.pdb
+C:\Users\porsuk\source\repos\Sepete_Yolla\SepeteYolla.Business\obj\Debug\net6.0\ref\SepeteYolla.Business.dll
